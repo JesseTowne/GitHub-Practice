@@ -2,6 +2,10 @@
 This repository is for personal practice when learning GitHub.
 
 ## Contents
+- [Background](#background)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+    - [Contributors](#contributors)
 - [License](#license)
 
 ## License
