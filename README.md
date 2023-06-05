@@ -1,6 +1,9 @@
 # GitHub-Practice
 This repository is for personal practice when learning GitHub.
 
+## Contents
+- [License](#license)
+
 ## Background
 Get started with GitHub and get ready for the MOGO project.
 
